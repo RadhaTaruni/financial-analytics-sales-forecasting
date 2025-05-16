@@ -1,5 +1,5 @@
 App Performance Analytics: Understanding User Behavior
-This project explores how users interact with a mobile app from installation to purchase, using synthetic data. It includes a full analysis and visual storytelling journey using *Excel, **Power BI, and **Python-ready data.
+This project explores how users interact with a mobile app from installation to purchase, using synthetic data. It includes a full analysis and visual storytelling journey using Excel, Power BI, and Python-ready data.
 Project Overview
 -  Simulated data for 50 users across key app metrics  
 -  Dashboards built in Excel and Power BI  
